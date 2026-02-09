@@ -1,2 +1,1 @@
-# Pokedex
-J'ai fait mon premier pokédex avec JavaScript
+# Deprecated / Consolidated\n\nThis repository has been consolidated into:\n\n- **ultimate-pokedex-collection** → https://github.com/Brainfeed-1996/ultimate-pokedex-collection\n\nThis repo is kept for historical reference and is archived.\n
